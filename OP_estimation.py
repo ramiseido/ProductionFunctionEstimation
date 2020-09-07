@@ -14,8 +14,8 @@ from sklearn import linear_model
 from sklearn.metrics import mean_squared_error
 
 
-#Enter the path to the data file that can me downloaded 
-#in the gitub repository.
+#Enter the path to the data file that can be downloaded 
+#from the github repository.
 output_data_file='data-olley-pakes.xlsx'
 
 
