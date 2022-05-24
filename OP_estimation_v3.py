@@ -5,10 +5,6 @@ data set. I will estimate the production function using various techniques
 described in the documentation pdf.
 """
 
-# added a comment at the top
-# second comment here
-# Third comment here.
-
 import pandas as pd
 
 import numpy as np
