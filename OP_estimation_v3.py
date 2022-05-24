@@ -7,6 +7,7 @@ described in the documentation pdf.
 
 # added a comment at the top
 # second comment here
+# Third comment here.
 
 import pandas as pd
 
